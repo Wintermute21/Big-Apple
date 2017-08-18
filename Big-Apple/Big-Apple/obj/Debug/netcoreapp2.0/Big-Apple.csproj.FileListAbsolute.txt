@@ -1,0 +1,14 @@
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\Big-Apple.deps.json
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\Big-Apple.runtimeconfig.json
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\Big-Apple.runtimeconfig.dev.json
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\Big-Apple.dll
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\bin\Debug\netcoreapp2.0\Big-Apple.pdb
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\Big-Apple.csproj.CoreCompileInputs.cache
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\Big-Apple.AssemblyInfo.cs
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\Big-Apple.dll
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\Big-Apple.pdb
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\Big-Apple.csprojResolveAssemblyReference.cache
+C:\Users\winte\Big-Apple\Big-Apple\Big-Apple\obj\Debug\netcoreapp2.0\Big-Apple.AssemblyInfoInputs.cache

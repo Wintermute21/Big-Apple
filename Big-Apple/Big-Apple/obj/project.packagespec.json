@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\winte\\Big-Apple\\Big-Apple\\Big-Apple\\Big-Apple.csproj",
+    "projectName": "Big-Apple",
+    "projectPath": "C:\\Users\\winte\\Big-Apple\\Big-Apple\\Big-Apple\\Big-Apple.csproj",
+    "outputPath": "C:\\Users\\winte\\Big-Apple\\Big-Apple\\Big-Apple\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0-preview2-25407-01"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0-preview1-final"
+        }
+      }
+    }
+  }
+}
